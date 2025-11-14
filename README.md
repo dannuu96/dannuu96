@@ -52,12 +52,12 @@ const danyal = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannu96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannu96&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannuu96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannuu96&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannu96&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannuu96&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ const danyal = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dannu96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dannuu96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
 </div>
 
 ---
@@ -83,7 +83,7 @@ const danyal = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannu96&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannuu96&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -110,7 +110,7 @@ const danyal = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dannu96&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dannuu96&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
